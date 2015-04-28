@@ -23,5 +23,5 @@
 **How to use**
 - Turn on your GPS service and Internet access (Wifi or Cellular)
 - Install & Open the app
-- Input the username that you are given 
+- Input your user name when you log in the app first time 
 - Keep the app running at the foreground and keep the screen on during the uploading process
