@@ -9,9 +9,9 @@
 - Turn on your GPS service
 - Install & Open the app
 - Click the button "Take Photo" 
-	- At present you don't need to select Indoor/Outdoor and car number
+	- '''At present you don't need to select Indoor/Outdoor and car number'''
 - Take photo, then click "save" or "√" to return to MedusaCam 
-	- Keep phone stable when taking and saving photo
+	- '''Keep phone stable when taking and saving photo'''
 - Take more photos if needed
 
 
