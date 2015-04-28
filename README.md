@@ -3,7 +3,7 @@
 
 ## MedusaCam
 
-** Function: ** Capture photos with metadata stored in the smartphone.
+**Function:** Capture photos with metadata stored in the smartphone.
 
 ### How to use
 - Install & Open the app
@@ -16,7 +16,7 @@
 
 ## Medusa Client
 
-** Function: ** Upload photos and metadata
+**Function:** Upload photos and metadata
 
 ### How to use
 - Install & Open the app
