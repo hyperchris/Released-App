@@ -4,13 +4,12 @@
 
 ## MedusaCam
 
-**Function:** Capture photos with metadata stored in the smartphone.
+**Function:** Capture photos with metadata
 
 **How to use**
 - Turn on your GPS service and Internet access (Wifi or Cellular)
 - Install & Open the app
 - Click the button "Take Photo" 
-	- *At present you don't need to select Indoor/Outdoor and car number*
 - Take photo, then click "save" or "√" to return to MedusaCam 
 	- *Keep phone stable when taking and saving photo*
 - Take more photos if needed
