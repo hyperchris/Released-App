@@ -1,5 +1,6 @@
 # App downloads
 
+**OS requirements:** Android 4.0 or above
 
 ## MedusaCam
 
