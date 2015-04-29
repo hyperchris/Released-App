@@ -1,10 +1,16 @@
 # App downloads
 
 **OS requirements:** Android 4.0 or above
-**How to install** Download the apk file. Connect the phone and your development computer with USB cable. Then
+
+**How to install** Download the apk file. Connect the phone and your development computer with USB cable. Then:
+
 1. You can use "adb install [path_of_apk_file]" to install the app.
+
 2. Or, you can copy the apk file to somewhere in your phone. Then open "File manager", find the file, click and install it.
-*Important* Make sure you have enabled "Install from unknown sources". Here are the steps to enable it: Settings -> Security -> Check the box of "Unknown sources".
+
+*Important* 
+
+Make sure you have enabled "Install from unknown sources". Here are the steps to enable it: Settings -> Security -> Check the box of "Unknown sources".
 
 ## MedusaCam
 
